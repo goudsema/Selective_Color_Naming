@@ -1,0 +1,1 @@
+Python libraries needed to run code: pandas, numpy, cv2, and matplotlib.
