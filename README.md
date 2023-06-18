@@ -1,5 +1,5 @@
 # Selective_Color_Naming
-Final project for SI 699: Big Data Analytics. 
+Final project for SI 699: Big Data Analytics. The report on this project is included in the repository, titled goudsema-si699-report.pdf.
 
 
 The flowers folder contains the images from the publicly available research dataset by Maria-Elena Nilsback and Andrew Zisserman which were used in the survey and project analysis. 
